@@ -1,0 +1,4 @@
+Weld ID,Material,Thickness (mm),Probe Angle (°),Calibration Block,Surface Prep,Result,Notes
+W-001,Carbon Steel,25,60,IIW Block,Clean & Smooth,PASS,"No defects"
+W-002,Stainless Steel,18,70,V1 Block,Grinded,FAIL,"Lamination detected"
+W-003,Carbon Steel,30,45,DAC Block,Painted,RESCAN,"Surface not prepared"
