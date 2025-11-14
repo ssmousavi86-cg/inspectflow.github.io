@@ -1,2 +1,2 @@
 # InspectFlow
-Modern Inspection Platform
+Modern NDT & AI-Powered Inspection Platform
